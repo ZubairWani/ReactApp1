@@ -1,1 +1,1 @@
-React-based API request (Test)
+React-based API request testing
